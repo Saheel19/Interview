@@ -5,3 +5,4 @@ You will run the following commands on the terminal in order to make the avialab
 npm install xlsx
 npm start (This will then start the running of react.js which will start up the program on a webpage)
 You will be greeted with a login page and under the login page there is Parse heading which will allow you to choose an excel file from you system in order to view it
+There is an excel file included in src>Components>Application Details.xlsx
